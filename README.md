@@ -1,4 +1,4 @@
-# AWS EC2 Auto-Launch Script and automated infrastructure provisioning using Terraform, followed by post-deployment configuration using Ansible. (Freelance Portfolio Project)
+ AWS EC2 Auto-Launch Script and automated infrastructure provisioning using Terraform, followed by post-deployment configuration using Ansible. (Freelance Portfolio Project)
 
 This project demonstrates how to fully automate the provisioning of an AWS EC2 instance using the AWS CLI — including networking, key pairs, Docker setup, and Nginx deployment.feel free to use this . this is just a type of format . you have to use your credentials like AMI ID , key name , etc . you can copy this script . # ☁️ AWS Infrastructure Automation with Terraform & Ansible
 
@@ -21,7 +21,11 @@ git clone https://github.com/your-username/terraform-ansible-automation.git
 cd terraform-ansible-automation
 
 ...
+ Linux Hardening & Security Audit Performed a manual and automated security check on a Ubuntu server. Hardened SSH, enforced strong firewall rules, and documented vulnerabilities. Tools: Lynis, UFW, Fail2Ban.
+using bash.
 
+ 
 ## License
+
 
 MIT License. Feel free to use and modify.
