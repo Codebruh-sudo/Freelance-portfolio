@@ -21,8 +21,7 @@ git clone https://github.com/your-username/terraform-ansible-automation.git
 cd terraform-ansible-automation
 
 ...
- Linux Hardening & Security Audit Performed a manual and automated security check on a Ubuntu server. Hardened SSH, enforced strong firewall rules, and documented vulnerabilities. Tools: Lynis, UFW, Fail2Ban.
-using bash.
+
 
  
 ## License
