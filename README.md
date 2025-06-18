@@ -26,8 +26,10 @@ This repository contains a collection of practical DevOps and AWS projects I've 
 - **Features:** Auto tag instances, security group setup, key pair management, instance monitoring setup.
 - **Path:** `./ec2-cli-setup/`
 
-### 5️⃣ CI/CD Pipeline Monitoring Setup *(Optional if included)*
+### 5️⃣ CI/CD*(Optional if included)*
 - If you've also included a pipeline project, we can add it here!
+
+- ### The userscriptterraform is a bash script created to use it after using the Terraform.tf file as it is use to hardening the linux after ec2 setup.
 
 ---
 
